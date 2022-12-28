@@ -1,0 +1,11 @@
+body{
+    background: rgb(177, 131, 221);
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.js-img {
+    width: 700px;
+    height: 700px;
+}
